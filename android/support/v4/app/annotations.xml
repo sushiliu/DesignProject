@@ -1,0 +1,5 @@
+<root>
+    <item name='android.support.v4.app.ActionBarDrawerToggle'>
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>

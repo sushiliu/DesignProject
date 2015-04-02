@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AugmentedMap</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_history">History</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_findme">Where am I</string>
+
+    <string name="scan_tips">Scan the Qr code to start planning travel</string>
+    <string name="scan_planner">Scanning Travel Planer</string>
+    <string name="eiffel">\nEiffel Tower</string>
+    <string name="louvre">\nLouvre Museum</string>
+    <string name="louvre1">Louvre Museum</string>
+    <string name="eiffel1">Eiffel Tower</string>
+    <string name="transit">\nTransit</string>
+    <string name="yourplace">Massy\nPalaiseau</string>
+    <string name="myplace">\n My place</string>
+    <string name="myplace1">My place</string>
+    <string name="eiffel_info">\nThe Eiffel Tower is an iron lattice  tower located on the Champ de Mars in Paris. The tower is the tallest structure in Paris and the most-visited paid monument in the world. Wiki</string>
+    <string name="louvre_info">\nThe Louvre Museum is one of the world largest museums and a historic monument. A central landmark of Paris. Nearly 35000 objects from prehistory to the 21st century are exhibited over an area of 60600 square  metres. The Louvre is the world most visited museum. Wiki</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="eiffel_address">\nAddress: Champ de Mars, 5 Avenue Anatole France, 75007 Paris</string>
+    <string name="louvre_address">\nAddress: Musée du Louvre 75001 Paris, France</string>
+    <string name="eiffel_opening">\nOpening hours: 9:30am - 11:00pm.  More</string>
+    <string name="louvre_opening">\nOpening hours: 9am to 6pm Closed on Tuesdays.  More</string>
+    <string name="eiffel_ticket">\nTicket: Adult - Stairs to 2nd floor- €9,00.  More</string>
+    <string name="louvre_ticket">\nTicket: Main Hall- €12,00.  More</string>
+    <string name="destination">Travelling to</string>
+    <string name="btn_scan">Continue scanning</string>
+    <string name="myroute">\nMy route planner</string>
+    <string name="title_activity_my_route">MyRoute</string>
+
+    <string name="app_not_available">Hm not there</string>
+    <string name="action_websearch">Hm not there</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="heading_dismissable_list_view">Content Here</string>
+    <string name="heading_dismissable_views">Close navigation drawer</string>
+
+
+</resources>

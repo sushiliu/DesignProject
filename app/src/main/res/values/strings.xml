@@ -38,6 +38,25 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="heading_dismissable_list_view">Content Here</string>
     <string name="heading_dismissable_views">Close navigation drawer</string>
+    <string-array name="places">
+        <item >ATM</item>
+        <item >Bank</item>
+        <item >Cafe</item>
+        <item >Fire-Station</item>
+        <item >Hospital</item>
+        <item >Pharmacy</item>
+        <item >Police</item>
+        <item >Restaurant</item>
+        <item >Shopping Mall</item>
+    </string-array>
+
+
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="quit" type="id"/>
 
 
 </resources>
